@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Reiqu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reiqu/logging.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reiqu/logging/issues"
+  },
+  "homepage": "https://github.com/Reiqu/logging"
 }
